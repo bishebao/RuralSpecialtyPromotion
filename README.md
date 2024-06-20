@@ -1,0 +1,2 @@
+# RuralSpecialtyPromotion
+ 基于SpringBoot的乡村特产推广管理系统，系统有管理员、用户和商户大三个角色
